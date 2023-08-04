@@ -1,0 +1,10 @@
+:root {
+  --gray-blue: hsl(233, 8%, 62%);
+  --light-gray-blue: hsl(220, 16%, 96%);
+  --dark-blue: hsl(233, 26%, 24%);
+  --very-light-gray: hsl(0, 0%, 98%);
+}
+
+html {
+  font-family: "Public Sans", sans-serif;
+}
